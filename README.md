@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> 
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
@@ -274,3 +275,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 - Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
 - The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.
+=======
+# MyPortfolio
+>>>>>>> 70ea65831aacb802e46fe4f38a45f69c93286e6f
